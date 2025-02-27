@@ -9,7 +9,7 @@ export function Header() {
       <a href="#">
         <Image src={logo} width={128} height={46} alt="logo" />
       </a>
-      <ul className="flex flex-row gap-7 items-center">
+      <ul className="flex flex-row gap-7 items-center font-medium">
         <li>
           <a className="cursor-pointer hover:underline" href="#funcionamento">
             Funcionamento

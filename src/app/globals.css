@@ -11,7 +11,6 @@
 
 body {
   color: var(--background);
-  background: var(--foreground);
   background-image: var(--background-noise-image);
   background-repeat: repeat;
   background-size: contain;
